@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1412750625 source:/Users/artemkovtunenko/Documents/C++/Classes/src/Anna.cpp
+	<iostream>
+	"Anna.h"
+
+1412750625 /Users/artemkovtunenko/Documents/C++/Classes/include/Anna.h
+
